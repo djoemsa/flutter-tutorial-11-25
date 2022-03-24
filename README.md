@@ -1,6 +1,27 @@
 # flutter_eleventh_to_twentyfifth
 
-A new Flutter project.
+aplikasi yang mengimplementasikan hal-hal sebagai berikut di flutter :
+
+- Flexible Widget
+- Stack Widget
+- Image Widget
+- Align Widget
+- Spacer Widget
+- Draggable Widget
+- DragTarget Widget
+- SizedBox Widget
+- Material Widget
+- InkWell widget
+- Card Widget
+- Opacity Widget
+- Postioned Widget
+- Floating Action Button Widget
+- Hero Widget
+- ClipRRect Widget
+- Pengunaan MediaQuery
+- Membuat LoginPage
+- Multi Page / Screen Navigation
+- AppBar dengan corak
 
 ## Getting Started
 
